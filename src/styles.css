@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: darkgreen;
+  color: lightgreen;
+}
+h1 {
+  text-align: center;
+}
+label,
+input {
+  display: block;
+}
+#date-of-birth {
+  margin: auto;
+  margin-bottom: 0.5rem;
+}
+#number {
+  margin: auto;
+  margin-bottom: 0.5rem;
+}
